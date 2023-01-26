@@ -1,0 +1,83 @@
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 50vh;
+    background-size: cover;
+    padding: 60px;
+    color: #ffffff;
+}
+
+.box1 {
+    font-family: "Bree Serif";
+    margin: 60px;
+}
+
+.box2 {
+    height: 150px;
+    width: 300px;
+
+}
+
+.button {
+    border-width: 0px;
+    font-weight: bold;
+    color: #ffffff;
+    height: 35px;
+    width: 150px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #8e97fd;
+}
+
+.homepage {
+    color: #ffffff;
+    text-align: center;
+    background-color: #03174c;
+}
+
+.imagemoon {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    margin: 50px;
+    padding: 80px;
+    color: #ffe7bf;
+
+}
+
+.bgcontainer2 {
+    padding: 80px;
+}
+
+.detailpage {
+    background-color: #03174c;
+    text-align: center;
+}
+
+.image2 {
+    height: 50vh;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.para {
+    font-family: "Bree Serif";
+    color: #98a1bd;
+}
+
+.moonclouds {
+    height: 150px;
+    width: 200px;
+}
+
+.padding {
+    margin: 20px;
+}
+
+.Margin {
+    padding: 20px;
+}
